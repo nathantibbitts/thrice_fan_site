@@ -1,0 +1,125 @@
+body{
+	background-color:black;
+	background-image: linear-gradient(to top, #000000, #43464B);
+}
+h1{
+	color:white;
+	background-image: linear-gradient(to bottom, #000000, #43464B);	
+	text-align: center;
+}
+h2{
+	color:white;
+	background-color:grey;
+	text-align: center;
+
+}
+h3{
+	color:white;
+}
+h4{
+	color:black;
+	background-color: grey;
+}
+p{
+	color:white;
+	background-color:grey;
+	text-align: left;
+}
+figcaption{
+	color:white;
+	background-color:grey;
+	text-align: center;
+}
+footer{
+	color:white;
+	background-color:grey;
+	text-align: center;
+	
+}
+.center {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ol{
+	display: block;
+	background-image: linear-gradient(to bottom, #000000, #43464B);
+	color: white;
+}
+ul{
+	background-color: black;
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+	font-size: 1.2em;
+}
+a{
+	background-color: grey;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+nav{
+	background-color: grey;
+	float: right;
+	padding: 1.5em;
+	text-align: center;
+}
+nav a{
+	transition: background-color 2s linear;
+}
+nav a:hover{
+	background-color:purple;
+}
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	min-width: 960px;
+	max-width: 2048px;
+	box-shadow: 3px 3px 3px #333333;
+	background-color: black;
+	background-image: linear-gradient(to bottom, #000000, #43464B);	
+	border: 1px  solid #000033;
+}
+section{
+	float: left;
+	width:33%;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+  [data-component="slideshow"] .slide {
+    display: none;
+  }
+
+  [data-component="slideshow"] .slide.active {
+    display: block;
+  }
+  
+  table{
+	  background-color: white;
+  }
+  td{
+	  text-align: center;
+  }
+  #date{
+	  text-align: right;
+  }
+label{
+	float:left; display: block; text-align: right; width: 140px; padding-right: 5px; color: white;
+}
+input{
+	display: block; margin-bottom: 20px;
+}
+textarea{
+	display: block; margin-bottom: 20px;
+}
+input[type=submit]{
+	margin-left:140px;
+}
+footer{
+	text-align:center;
+}
+footer p{
+	text-align:center;
+}
