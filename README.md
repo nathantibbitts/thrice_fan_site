@@ -19,7 +19,8 @@ Their official website is at [www.thrice.net](https://thrice.net), this is a fan
 
 How I got the slideshow working: 
 First, I got a handle and all the other stuff needed to reference these things. For more info, check out scripts.js
-`setInterval( () => {
+
+```javascript setInterval( () => {
       slides[index].classList.remove('active');
       
       //Go over each slide incrementing the index
@@ -30,4 +31,4 @@ First, I got a handle and all the other stuff needed to reference these things. 
       
       slides[index].classList.add('active');
 
-    }, time);`
+    }, time);```
