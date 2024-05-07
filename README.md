@@ -1,6 +1,7 @@
 # thrice_fan_site
 ## __Unofficial__
 A Thrice fan site, built for my web development class.
+
 *Thrice are an American post-hardcore band from Irving California*
 
 **I have been obsessed with them since I was 15**
