@@ -14,4 +14,4 @@ Their official website is at [www.thrice.net](https://thrice.net), this is a fan
 
 
 
-![Thrice](pictures/thrice.jpeg)
+![Thrice](pictures/thrice.jpg)
